@@ -5,6 +5,8 @@ INGENIERÍA DE SOFTWARE II
 
 GRUPO 4
 NRC: 8517
+
+
 INTEGRANTES 
 Herrera Itas Vianka Anais 
 Loachamin Aldaz Mateo Esteban 
@@ -15,5 +17,5 @@ Yánez Freire José Ignacio
 
  
 Efraín Rodrigo Fonseca Carrera 
-Fecha: 19 de Febrero de 2023 
+
 
